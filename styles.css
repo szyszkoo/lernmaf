@@ -1,0 +1,49 @@
+body{
+font-family: arial;
+background-color:rgb(184, 179,175);
+background-image: url(https://s8.hostingkartinok.com/uploads/images/2016/02/87822fb6f4532a0d04a54c985b838523.png);
+
+
+}
+p{
+color:rgb(255,255,255);
+}
+
+li{
+display: inline;
+margin-right: 60px;
+color:rgb(255,255,255);
+}
+
+#navbar{
+
+margin: 1%;
+width: 95%;
+position:fixed;
+overflow:auto;
+background-color: #ffbcbc;
+}
+
+#example{
+
+overflow:auto;
+padding: 8px 8px;
+margin: 2%;
+width: 95%;
+float: left;
+background-color: rgba(184, 179,175,0.75);
+margin-top: 180px;
+}
+
+#zadanka{
+
+position: fixed;
+background-color: pink;
+width: 200px;
+height: 67px;
+left: 67px;
+bottom: 0;
+text-align: center;
+background-color: #f5a4a4;
+
+}
